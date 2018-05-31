@@ -1,0 +1,1 @@
+powershell -executionpolicy unrestricted -command "& {.\create-selfsignedcert.ps1}"
